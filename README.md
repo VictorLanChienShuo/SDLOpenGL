@@ -1,6 +1,6 @@
-# SDLOpenGL Project
-# Operate in Linux 
-# Reed Final.c
+#SDLOpenGL Project
+#Operate in Linux 
+#Reed Final.c
 
 1. Open the computer terminal, use “cd” to find the file name “Victor_Lan_Program”.
 2. Run the “ascii_makefile”.
