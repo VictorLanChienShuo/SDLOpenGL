@@ -3,7 +3,7 @@
 #Read Final.c
 
 1. Open the computer terminal, use “cd” to find the file name “SDLOpenGL”.
-2. Run the “ascii_makefile”.
+2. Run the “ascii_makefile.pro”.
 3. Place the image or a or a sequence of images which user wish to convert to ASCII art image in to file “SDLOpenGL”
 4. Run the program call “ASCII_Art_Image_Conversion”.
 5. The terminal will ask user to input the name of the image user wish to convert to ASCII art image.
