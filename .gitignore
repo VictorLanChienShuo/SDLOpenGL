@@ -1,6 +1,8 @@
 SDLOpenGL
 Makefile
 
+*.pro.user*
+
 # Prerequisites
 *.d
 
