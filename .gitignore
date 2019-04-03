@@ -1,3 +1,6 @@
+SDLOpenGL
+Makefile
+
 # Prerequisites
 *.d
 
@@ -31,4 +34,3 @@
 *.out
 *.app
 
-SDLOpenGL
